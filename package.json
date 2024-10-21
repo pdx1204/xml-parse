@@ -1,0 +1,14 @@
+{
+  "name": "xml-parse",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@xml-tools/ast": "^5.0.5"
+  }
+}
